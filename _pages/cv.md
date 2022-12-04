@@ -2,6 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
+author_profile: true
 nav: true
 nav_order: 1
 cv_pdf: Ryan Gallagher - CV.pdf
