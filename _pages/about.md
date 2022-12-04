@@ -1,6 +1,6 @@
 ---
-layout: About
-title: Associate Professor
+layout: about
+title: about
 permalink: /
 subtitle: Department of Economics, <a href='[#](https://www.neiu.edu/academics/college-of-arts-and-sciences/departments/economics)'>Northeastern Illinois University</a>. # Address. Contacts. Moto. Etc.
 
