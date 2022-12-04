@@ -9,9 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>5500 N. St. Louis Ave.</p>
-    <p>340b</p>
+    <p>Department of Economics</p>
+    </p>Northeastern Illinois University</p>
+    <p>5500 N. St. Louis Ave., 340b</p>
     <p>Chicago, IL 60625</p>
+    </p></p>
+    </p>r-gallagher1@neiu.edu</p>
+    </p>773-442-5685</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
