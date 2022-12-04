@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: # page  Note: commenting `page' out drops it from the header
 title: submenus
 nav: true
 nav_order: 6
