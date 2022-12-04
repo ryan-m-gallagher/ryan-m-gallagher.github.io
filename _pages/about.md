@@ -8,11 +8,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> </p> 
+    <hr> 
     <p>5500 N. St. Louis Ave.</p>
     <p>BBH 340b</p>    
     <p>Chicago, IL 60625</p>
-    <p> </p>
+    <hr>
     <p>r-gallagher1@neiu.edu</p>
     <p>773-442-5685</p>
 
