@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Economics, Northeastern Illinois University. 5500 N. St. Louis Ave. BBH 340b. #Contacts. Moto. Etc.
-
+subtitle: Department of Economics, Northeastern Illinois University
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Department of Economics<p>
-    <p>Northeastern Illinois University<p>
-    <p>5500 N. St. Louis Ave., 340b<p>
+    <p></p> 
+    <p>5500 N. St. Louis Ave., 340b</p>
     <p>Chicago, IL 60625</p>
+    <p></p>
     <p>r-gallagher1@neiu.edu</p>
     <p>773-442-5685</p>
 
