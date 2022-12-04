@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Department of Economics, [Northeastern Illinois University](https://www.neiu.edu/academics/college-of-arts-and-sciences/departments/economics). 
-# Address. Contacts. Moto. Etc.
+subtitle: Department of Economics, Northeastern Illinois University. 5500 N. St. Louis Ave. BBH 340b. #Contacts. Moto. Etc.
 
 profile:
   align: right
