@@ -1,7 +1,7 @@
 ---
-layout: # page  Note: commenting `page' out drops it from the header
+layout:  page 
 title: submenus
-nav: true
+nav: false
 nav_order: 6
 dropdown: true
 children: 
