@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor, Department of Economics, Northeastern Illinois University
+subtitle: <b>Associate Professor, Department of Economics, Northeastern Illinois University </b>
 profile:
   align: right
   image: prof_pic.jpg
