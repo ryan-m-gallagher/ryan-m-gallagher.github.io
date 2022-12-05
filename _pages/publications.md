@@ -10,7 +10,8 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<font size="5"><b> Journal Articles </b></font>   
+<font size="5"><b> Journal Articles </b></font>
+<hr>  
   {% bibliography --file papers %}
   
 <font size="5"><b> Working Papers </b></font>  
