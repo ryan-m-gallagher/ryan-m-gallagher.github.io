@@ -11,7 +11,7 @@ nav_order: 2
 <div class="publications">
 
 <font size="5"><b> Journal Articles </b></font>   
-  {% bibliography -f papers -q @papers %}
+  {% bibliography -f papers -q @einstein1950meaning %}
   
 <font size="5"><b> Working Papers </b></font>  
 {%- for y in page.years %}
