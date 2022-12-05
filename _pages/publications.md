@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<font size="4"><b> Journal Articles </b></font> 
+<font size="10"><b> Journal Articles </b></font> 
   
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
