@@ -11,8 +11,11 @@ nav_order: 2
 <div class="publications">
 
 <font size="5"><b> Journal Articles </b></font>   
-  {% bibliography -f papers -q %}
-
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
+  
 <font size="5"><b> Working Papers </b></font>  
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
