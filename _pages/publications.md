@@ -10,21 +10,21 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<font size="6"><b> Journal Articles </b></font> 
+<font size="5"><b> Journal Articles </b></font> 
   
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-<b> Working Papers </b> 
+<font size="5"><b> Working Papers </b></font> 
   
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
   
-<b> Works in Progress </b> 
+<font size="5"><b> Work-In-Progress </b></font> 
   
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
