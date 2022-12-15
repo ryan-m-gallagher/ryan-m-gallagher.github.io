@@ -5,7 +5,7 @@ permalink: /
 subtitle: <b>Associate Professor, Department of Economics, Northeastern Illinois University </b>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Photo_RyanMGallagher.png
   image_circular: false # crops the image to make it circular
   address: >
     <hr> 
