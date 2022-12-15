@@ -25,4 +25,4 @@ social: false  # includes social icons at the bottom of the page
 <br><br>
 I have a wide range of teaching interests.  Beyond core micro-theory courses, I teach classes in urban economics, regional economic development/growth, cost-benefit analysis, and public-sector economics.  I also teach a first-term micro-theory course for the University of Illinois at Chicago's Department of Economics as part of their Applied M.A. in Economics program.
 <br><br>
-Prior to entering academia I was a Research Economist for the Illinois Department of Revenue where I conducted economic impact and revenue analysis.  I live in Chicago, Illinois with my two wonderful children and amazing wife.</p>
+Prior to entering academia, I was a Research Economist for the Illinois Department of Revenue where I conducted economic impact and revenue analysis.  I live in Chicago, Illinois with my two wonderful children and amazing wife.</p>
