@@ -13,12 +13,12 @@ nav_order: 2
 <hr>  
   {% bibliography --file papers %}
   
-<font size="5"><b> Work In Progress </b></font><p>   
+<font size="5"><b> Work In Progress </b></font>   
 <hr>
-<b>“The Long -Run Impacts of Zoning the Suburbs”</b> (w/ Allison Shertzer & Tate Twinam) <br><p>  
+<p><b>“The Long -Run Impacts of Zoning the Suburbs”</b> (w/ Allison Shertzer & Tate Twinam)</p>  
 
-<b>“Municipal Annexation in Post-WWII Suburbia and the Evolution of Urban Land Value, 1946–1969”</b><br><p>  
+<p><b>“Municipal Annexation in Post-WWII Suburbia and the Evolution of Urban Land Value, 1946–1969”</b></p>  
 
-<b>“Forgetting Roy: The Use of Movers to Identify Effects of Place”</b> (w/ Robert Kaestner) <br><p>  
+<p><b>“Forgetting Roy: The Use of Movers to Identify Effects of Place”</b> (w/ Robert Kaestner)</p>  
 
-<b>“Did Deindustrialization Accelerate Growth in Suburban Heterogeneity?”</b> (w/ Joseph Persky) <br> 
+<p><b>“Did Deindustrialization Accelerate Growth in Suburban Heterogeneity?”</b> (w/ Joseph Persky)</p> 
