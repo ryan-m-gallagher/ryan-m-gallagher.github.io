@@ -15,7 +15,7 @@ nav_order: 2
   
 <font size="5"><b> Work In Progress </b></font>   
 <hr>
-<b>“The Long -Run Impacts of Zoning the Suburbs”</b> (w/ Allison Shertzer & Tate Twinam) <br><p>
+<b>“The Long -Run Impacts of Zoning the Suburbs”</b> (w/ Allison Shertzer & Tate Twinam) <br><p>  
 
 <b>“Municipal Annexation in Post-WWII Suburbia and the Evolution of Urban Land Value, 1946–1969”</b><br><p>  
 
