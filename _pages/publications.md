@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: <b>Research</b>
-description: I do mostly applied research in urban/regional economics and local public finance.  Please feel free to reach out if you have any questions.   
+description: I do mostly applied research in urban/regional economics and local public finance.  A list of my most recent published work and some of my on-going projects is provided below.  Please feel free to reach out if you have any questions.   
 nav: true
 nav_order: 2
 ---
