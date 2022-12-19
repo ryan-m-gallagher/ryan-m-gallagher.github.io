@@ -15,11 +15,11 @@ nav_order: 2
   
 <font size="5"><b> Work In Progress </b></font>   
 <hr>
-<b>“The Long -Run Impacts of Zoning the Suburbs”</b> (w/ Allison Shertzer & Tate Twinam) <br>
+<b>“The Long -Run Impacts of Zoning the Suburbs”</b> (w/ Allison Shertzer & Tate Twinam) <br><p>
 
-<b>“Municipal Annexation in Post-WWII Suburbia and the Evolution of Urban Land Value, 1946–1969”</b><br>  
+<b>“Municipal Annexation in Post-WWII Suburbia and the Evolution of Urban Land Value, 1946–1969”</b><br><p>  
 
-<b>“Forgetting Roy: The Use of Movers to Identify Effects of Place”</b> (w/ Robert Kaestner) <br>  
+<b>“Forgetting Roy: The Use of Movers to Identify Effects of Place”</b> (w/ Robert Kaestner) <br><p>  
 
 <b>“Did Deindustrialization Accelerate Growth in Suburban Heterogeneity?”</b> (w/ Joseph Persky)  
 </div>
