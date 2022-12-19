@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: <b>Research</b>
-description: Here's what I have been working on...
+description: I do mostly applied research in urban/regional economics and local public finance.  Please feel free to reach out if you have any questions.   
 nav: true
 nav_order: 2
 ---
@@ -15,5 +15,11 @@ nav_order: 2
   
 <font size="5"><b> Work In Progress </b></font>   
 <hr>
-bla bla bla    
+“The Long -Run Impacts of Zoning the Suburbs” (w/ Allison Shertzer & Tate Twinam)
+<hr>
+“Municipal Annexation in Post-WWII Suburbia and the Evolution of Urban Land Value, 1946–1969”  
+<hr>
+“Forgetting Roy: The Use of Movers to Identify Effects of Place” (w/ Robert Kaestner)  
+<hr>
+“Did Deindustrialization Accelerate Growth in Suburban Heterogeneity?” (w/ Joseph Persky)  
 </div>
