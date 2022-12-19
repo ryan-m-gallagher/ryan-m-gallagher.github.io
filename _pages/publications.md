@@ -13,7 +13,7 @@ nav_order: 2
 <hr>  
   {% bibliography --file papers %}
   
-<font size="5"><b> Work In Progress </b></font>   
+<font size="5"><b> Work In Progress </b></font><p>   
 <hr>
 <b>“The Long -Run Impacts of Zoning the Suburbs”</b> (w/ Allison Shertzer & Tate Twinam) <br><p>  
 
