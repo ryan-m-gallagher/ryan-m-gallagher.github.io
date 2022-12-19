@@ -21,5 +21,5 @@ nav_order: 2
 
 <b>“Forgetting Roy: The Use of Movers to Identify Effects of Place”</b> (w/ Robert Kaestner) <br><p>  
 
-<b>“Did Deindustrialization Accelerate Growth in Suburban Heterogeneity?”</b> (w/ Joseph Persky)  
+<b>“Did Deindustrialization Accelerate Growth in Suburban Heterogeneity?”</b> (w/ Joseph Persky) <br>  
 </div>
