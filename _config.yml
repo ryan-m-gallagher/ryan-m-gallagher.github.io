@@ -7,7 +7,7 @@ first_name: # skip this because I don't like the bold
 middle_name: Ryan M.
 last_name: Gallagher
 email: r-gallagher1@neiu.edu
-description:  # > the ">" symbol means to ignore newlines until "footer_text:"
+description: Ryan M. Gallagher Economics Website # > the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
